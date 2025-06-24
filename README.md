@@ -7,14 +7,12 @@ I hope you find everything here as fascinating as i do 🤩 <br/> After all, tha
 
 ## Currently 
 
-- 🔭 I'm currently working on **zenSoar**
+- 🔭 I'm currently working on **Charge-circle**
   
 - 🌱 I'm open to contribute on any opensource or private projects
-  
-- 📝 I'm currently learning **C and The MERN Stack**
-  
+    
 - 💬 Ask me about Javascript, Anime & Music.
   
-- 📫 How to reach me: ezeahjessica@gmail.com
+- 📫 How to reach me: kachiezeah@gmail.com
 
 
