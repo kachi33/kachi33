@@ -22,4 +22,4 @@ Perfection fades, but consistency builds progress.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kachi33&show_icons=true&locale=en&layout=compact" alt="kachi33" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kachi33&show_icons=true&locale=en" alt="kachi33" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kachi33" alt="kachi33" /></p>
