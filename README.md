@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&text=Welcome!&fontColor=ffffff&textBg=false&animation=fadeIn&reversal=false&section=header&fontSize=30&fontAlign=50&fontAlignY=35)
 # Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40px" width="40px"></img> , I'm Kachi
 Perfection fades, but consistency builds progress.
-- 🔭 I’m currently working on [Tasq- Personal Task manager/Pwa](https://kachi-todo.pipeops.net/)
+- 🔭 I’m currently working on [Tasq- Personal Task manager/Pwa](https://tasq-zeta.vercel.app/)
 
 - 🌱 I’m currently learning **DSA ie. AI break 🐸**
 
